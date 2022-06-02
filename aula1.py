@@ -1,7 +1,7 @@
 # Isso é um comentário
 
 '''
-Comentario para documentacao
+Comentário para documentação
 '''
 
 print('Hello Word!')
